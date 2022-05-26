@@ -1,6 +1,0 @@
-Copyright 2022 Karolina Jakubowska
-Copyright 2022 Paulina Tymoszuk
-
-All Rights Reserved.
-
-This file has been modified by Karolina Jakubowska and Paulina Tymoszuk to add better interface for application.
